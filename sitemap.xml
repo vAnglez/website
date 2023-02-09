@@ -2,19 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://vanglez.us/resume/</loc>
+    <loc>/resume/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://vanglez.us/blog/</loc>
+    <loc>/blog/</loc>
   </url><url>
-    <loc>https://vanglez.us/categories/</loc>
+    <loc>/categories/</loc>
   </url><url>
-    <loc>https://vanglez.us/</loc>
+    <loc>/</loc>
   </url><url>
-    <loc>https://vanglez.us/search/</loc>
+    <loc>/search/</loc>
   </url><url>
-    <loc>https://vanglez.us/tags/</loc>
+    <loc>/tags/</loc>
   </url><url>
-    <loc>https://vanglez.us/videos/</loc>
+    <loc>/videos/</loc>
   </url>
 </urlset>
