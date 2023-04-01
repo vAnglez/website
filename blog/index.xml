@@ -4,6 +4,26 @@
     <title>Blog on Angel&#39;s Website</title>
     <link>/blog/</link>
     <description>Recent content in Blog on Angel&#39;s Website</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 28 Mar 2023 04:30:08 -0800</lastBuildDate><atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introduction into Bug Bounty</title>
+      <link>/blog/bugbounty/</link>
+      <pubDate>Tue, 28 Mar 2023 04:30:08 -0800</pubDate>
+      
+      <guid>/blog/bugbounty/</guid>
+      <description>Subjects -Prerequisites
+-Choose your website
+-Recon/Hacking
+-Writeup
+-Resources
+Prerequisites Mindset So you want to get into bug bounty? Great, but I highly recommend you come in with this mindset: Be positive, be persistent and play the waiting game.
+Operating Systems Now let&#39;s pick an operating system:
+-Linux
+-macOS
+-Windows
+Any of these should do, I would personally not recommend trying to do bug bounty on chromeOS as a lot of your tools would be browser plugins and if you&#39;re still new to cybersecurity you&#39;re just making your transition into this field a lot harder unfortunately.</description>
+    </item>
+    
   </channel>
 </rss>

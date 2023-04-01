@@ -4,7 +4,27 @@
     <title>Home on Angel&#39;s Website</title>
     <link>/</link>
     <description>Recent content in Home on Angel&#39;s Website</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 28 Mar 2023 04:30:08 -0800</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introduction into Bug Bounty</title>
+      <link>/blog/bugbounty/</link>
+      <pubDate>Tue, 28 Mar 2023 04:30:08 -0800</pubDate>
+      
+      <guid>/blog/bugbounty/</guid>
+      <description>Subjects -Prerequisites
+-Choose your website
+-Recon/Hacking
+-Writeup
+-Resources
+Prerequisites Mindset So you want to get into bug bounty? Great, but I highly recommend you come in with this mindset: Be positive, be persistent and play the waiting game.
+Operating Systems Now let&#39;s pick an operating system:
+-Linux
+-macOS
+-Windows
+Any of these should do, I would personally not recommend trying to do bug bounty on chromeOS as a lot of your tools would be browser plugins and if you&#39;re still new to cybersecurity you&#39;re just making your transition into this field a lot harder unfortunately.</description>
+    </item>
+    
     <item>
       <title></title>
       <link>/resume/</link>
@@ -14,7 +34,7 @@
       <description>Resume/CV Angel Garcia J.
 702-960-9278
 angel.garcia0616@icloud.com
-Company Role Time PeriodFree Cyber ClinicTraining Program Developer &amp; Co-FounderOctober 2021 - NowAssess threat actor Tactics, Techniques and Procedures (TTPs) focused on the 100s of small businesses under the Small Business Development Center to minimize the attackers’ impact.Create virtual labs accessible through Apache Guacamole to be assessed with open-source &amp; system tools to train for vulnerabilities or weaknesses found in small businesses.</description>
+Company Role Time PeriodContract WorkSystems AdministratorMay 2022 - NowAdminister virtual machines &amp; update services provided to 100+ users to strive for 99.999% uptimeCreate and revise internal documentation for networks, infrastructure &amp; assets in order to minimize cost from wasted time &amp; resourcesManage projects through Jira &amp; Asana to keep business operating on a weekly basisClients: Free Cyber Clinic, Layer Zero &amp; Personal HomelabFree Cyber ClinicTraining Program Developer &amp; Co-FounderOctober 2021 - NowNon-profit that assess threat actor Tactics, Techniques &amp; Procedures (TTPs) focused on the 100s of small businesses under the SBDC to help prevent $100,000+ of damages from hacks &amp; breaches.</description>
     </item>
     
     <item>
