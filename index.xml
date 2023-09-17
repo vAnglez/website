@@ -12,17 +12,9 @@
       <pubDate>Tue, 28 Mar 2023 04:30:08 -0800</pubDate>
       
       <guid>/blog/bugbounty/</guid>
-      <description>Subjects -Prerequisites
--Choose your website
--Recon/Hacking
--Writeup
--Resources
-Prerequisites Mindset So you want to get into bug bounty? Great, but I highly recommend you come in with this mindset: Be positive, be persistent and play the waiting game.
+      <description>Subjects Prerequisites Choose Your Website Recon/Hacking Writeup Resources Prerequisites Mindset So you want to get into bug bounty? Great, but I highly recommend you come in with this mindset: Be positive, be persistent, and play the waiting game.
 Operating Systems Now let&#39;s pick an operating system:
--Linux
--macOS
--Windows
-Any of these should do, I would personally not recommend trying to do bug bounty on chromeOS as a lot of your tools would be browser plugins and if you&#39;re still new to cybersecurity you&#39;re just making your transition into this field a lot harder unfortunately.</description>
+Linux macOS Windows Any of these should do. I would personally not recommend trying to do bug bounty on ChromeOS, as many of your tools would be browser plugins.</description>
     </item>
     
     <item>
@@ -32,9 +24,12 @@ Any of these should do, I would personally not recommend trying to do bug bounty
       
       <guid>/resume/</guid>
       <description>Resume/CV Angel Garcia J.
-702-960-9278
-angel.garcia0616@icloud.com
-Company Role Time PeriodContract WorkSystems AdministratorMay 2022 - NowAdminister virtual machines &amp; update services provided to 100+ users to strive for 99.999% uptimeCreate and revise internal documentation for networks, infrastructure &amp; assets in order to minimize cost from wasted time &amp; resourcesManage projects through Jira &amp; Asana to keep business operating on a weekly basisClients: Free Cyber Clinic, Layer Zero &amp; Personal HomelabFree Cyber ClinicTraining Program Developer &amp; Co-FounderOctober 2021 - NowNon-profit that assess threat actor Tactics, Techniques &amp; Procedures (TTPs) focused on the 100s of small businesses under the SBDC to help prevent $100,000+ of damages from hacks &amp; breaches.</description>
+Professional Development
+Certifications: Security+, A+, LPI Linux Essentials
+Homelab: Proxmox | Windows Server 2022 | Ubuntu Server with Docker | pfSense | Cloudflare
+Conferences:
+BSides Las Vegas 2022, 2023 CES 2023 DEFCON 29, 30, 31 DOE Cybercon 2022, 2023 CTFs:
+Boss of the Soc 2023 25th/60 Teams - Fowl Owls Pro Vs Joes CTF 2023 1st Place - Ctrl Alt Defeat Pro Vs Joes CTF 2022 1st Place - Red Team CTF ICL Collegiate Cup 2022 12th/57 Teams - UNLV S.</description>
     </item>
     
     <item>

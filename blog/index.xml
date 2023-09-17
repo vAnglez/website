@@ -12,17 +12,9 @@
       <pubDate>Tue, 28 Mar 2023 04:30:08 -0800</pubDate>
       
       <guid>/blog/bugbounty/</guid>
-      <description>Subjects -Prerequisites
--Choose your website
--Recon/Hacking
--Writeup
--Resources
-Prerequisites Mindset So you want to get into bug bounty? Great, but I highly recommend you come in with this mindset: Be positive, be persistent and play the waiting game.
+      <description>Subjects Prerequisites Choose Your Website Recon/Hacking Writeup Resources Prerequisites Mindset So you want to get into bug bounty? Great, but I highly recommend you come in with this mindset: Be positive, be persistent, and play the waiting game.
 Operating Systems Now let&#39;s pick an operating system:
--Linux
--macOS
--Windows
-Any of these should do, I would personally not recommend trying to do bug bounty on chromeOS as a lot of your tools would be browser plugins and if you&#39;re still new to cybersecurity you&#39;re just making your transition into this field a lot harder unfortunately.</description>
+Linux macOS Windows Any of these should do. I would personally not recommend trying to do bug bounty on ChromeOS, as many of your tools would be browser plugins.</description>
     </item>
     
   </channel>
